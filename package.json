@@ -1,0 +1,25 @@
+{
+  "name": "node-cpp-snafu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mapsam/node-cpp-snafu.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mapsam/node-cpp-snafu/issues"
+  },
+  "homepage": "https://github.com/mapsam/node-cpp-snafu#readme",
+  "dependencies": {
+    "node-cpp-skel": "./node-cpp-skel_1.0.0",
+    "module-one": "./module-one",
+    "module-two": "./module-two"
+  }
+}

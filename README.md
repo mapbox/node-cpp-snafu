@@ -1,0 +1,3 @@
+What happens when you have two versions of the same Node.js add-on binary? Bad things! Here's why...
+
+Yadayada
