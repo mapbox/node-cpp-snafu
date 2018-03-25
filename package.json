@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mapsam/node-cpp-snafu.git"
+    "url": "git+https://github.com/mapbox/node-cpp-snafu.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mapsam/node-cpp-snafu/issues"
+    "url": "https://github.com/mapbox/node-cpp-snafu/issues"
   },
-  "homepage": "https://github.com/mapsam/node-cpp-snafu#readme",
+  "homepage": "https://github.com/mapbox/node-cpp-snafu#readme",
   "dependencies": {
     "node-cpp-skel": "./node-cpp-skel_1.0.0",
     "module-one": "./module-one",
